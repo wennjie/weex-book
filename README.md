@@ -1,10 +1,18 @@
-## 基于eros Cli 随手写的阅读软件。 未优化，确实是快
+# 基于eros Cli 随手写的阅读软件。 未优化，确实是快
 eros Cli 由本木前端团队开发，内置weex-ui及bui weexUI库，对于weex的学习者和使用者极其友好  可快速学习及开发
 ## 说明
 本项目基于 eros v2 ，学习及教程请参照 [eros v2](https://github.com/bmfe/eros-template/wiki/eros)
+环境搭建参照下方cli说明
+* 环境搭建完成后将demo中的 src及config 文件夹，package.jsopn 直接覆盖
+* npm install/cnpm install 安装依赖库
+* eros install 
+* eros dev 
+* 模拟器或真机设置本地 config -> eros.native.js -> jsServer 电脑192 IP （ 真机调试 确保 手机和电脑在同一局域网内，且 局域网可互相访问 ，若有限制，请使用[ngrok](https://www.ngrok.cc/login.html) 代理本地到外网）
+
+
 ## 展示
 
-![image](https://github.com/liamYoung/serverAndClient/blob/OMS/yd.png)
+![video](https://github.com/liamYoung/serverAndClient/blob/OMS/yd.png)
 
 
 
