@@ -12,13 +12,14 @@ eros Cli 由本木前端团队开发，内置weex-ui及bui weexUI库，对于wee
 
 ## 展示
 
-
-
-<video width="350" height="667" controls>
-<source src="http://webdev.skylinuav.com/video/demo.mp4">
-</video>
-
-
+[video展示](http://webdev.skylinuav.com/video/demo.mp4)
+[![image](http://webdev.skylinuav.com/video/1.png)](http://webdev.skylinuav.com/video/demo.mp4)
+[![image](http://webdev.skylinuav.com/video/2.png)](http://webdev.skylinuav.com/video/demo.mp4)
+[![image](http://webdev.skylinuav.com/video/3.png)](http://webdev.skylinuav.com/video/demo.mp4)
+[![image](http://webdev.skylinuav.com/video/4.png)](http://webdev.skylinuav.com/video/demo.mp4)
+[![image](http://webdev.skylinuav.com/video/5.png)](http://webdev.skylinuav.com/video/demo.mp4)
+[![image](http://webdev.skylinuav.com/video/6.png)](http://webdev.skylinuav.com/video/demo.mp4)
+[![image](http://webdev.skylinuav.com/video/7.png)](http://webdev.skylinuav.com/video/demo.mp4)
 ## 分割线 
 
 以下为eros 简介
