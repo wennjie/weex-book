@@ -4,7 +4,7 @@ eros Cli 由本木前端团队开发，内置weex-ui及bui weexUI库，对于wee
 本项目基于 eros v2 ，学习及教程请参照 [eros v2](https://github.com/bmfe/eros-template/wiki/eros)
 ## 展示
 
-
+![image](https://github.com/liamYoung/serverAndClient/blob/OMS/yd.png)
 
 
 
