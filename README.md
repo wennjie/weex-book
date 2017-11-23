@@ -1,3 +1,23 @@
+##基于eros Cli 随手写的阅读软件。 未优化，确实是快
+eros Cli 由本木前端团队开发，内置weex-ui及bui weexUI库，对于weex的学习者和使用者极其友好  可快速学习及开发
+
+## 说明
+本项目基于 eros v2 ，学习及教程请参照 [eros v2](https://github.com/bmfe/eros-template/wiki/eros)
+
+
+##展示
+
+
+
+
+
+
+
+##分割线 
+
+以下为eros 简介
+
+
 ## Intro
 eros 是基于 [weex](https://weex-project.io/cn/) 封装面向前端的 vue 写法的解决方案，由于 app 开发的特殊性，eros 则更偏重关心于整个 app 项目。
 
@@ -36,7 +56,8 @@ eros 会尽全力弥补不足。
 * [vue](https://cn.vuejs.org/v2/guide/)
 ## Docs
 * [eros v1](https://karynsong.gitbooks.io/weex-eros/content/)
-* eros v2 (building...)
+* [eros v2](https://github.com/bmfe/eros-template/wiki/eros)
+
 ## Support 
 > 跟随着 weex 的支持性，`但目前我们并不支持开发代码兼容 web 端`
 
